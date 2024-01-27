@@ -1,5 +1,7 @@
 # CS50 Emojize Solution
-CS50’s Introduction to Programming with Python Emojize problem solution
+CS50’s Introduction to Programming with Python Emojize problem solution.
+
+This program was developed according with Python's good practices and based on [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
 
 ### Version
 1.0.0
