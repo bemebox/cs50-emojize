@@ -19,6 +19,7 @@ These instructions will guide you to copy the project from the repository and ru
 ### Prerequisites
 
 Things you need to have installed:
+* [Python](https://docs.python.org/3/using/unix.html#getting-and-installing-the-latest-version-of-python)
 * [emoji library](https://pypi.org/project/emoji/)
 
 ### Local Installation
