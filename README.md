@@ -16,11 +16,8 @@ These instructions will guide you to copy the project from the repository and ru
 ### Prerequisites
 
 Things you need to have installed:
-```
 * [emoji library](https://pypi.org/project/emoji/)
 * [emoji list](https://carpedm20.github.io/emoji/all.html?enableList=enable_list_alias)
-
-```
 
 ### Local Installation
 
@@ -31,14 +28,14 @@ $git clone [URL].git
 ```
 
 ### Run
-To run the project, check that the emoji library is installed and run the python command
+To run the project, first check that the emoji library is installed, then run the python command.
 
-To install the emoji library, type the following command-line into the terminal
+To install the emoji library, write the following command-line into the terminal:
 ```
 $pip install emoji
 ```
 
-To run the program, type the command-line into the terminal:
+To run the program, write the command-line into the terminal:
 ```
 $python emojize.py
 ```
@@ -50,7 +47,7 @@ $Input: :thumbs_up:
 ```
 $hello, :earth_africa:
 ```
-![Ecommerce Diagram](./output_earth_africa.png.png)
+![output earth africa](./output_earth_africa.png)
 
 
 ## Authors
