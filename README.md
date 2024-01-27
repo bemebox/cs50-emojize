@@ -7,6 +7,7 @@ CS50’s Introduction to Programming with Python Emojize problem solution
 
 ## Resources
 * [CS50 Emojize Problem](https://cs50.harvard.edu/python/2022/psets/4/emojize/)
+* [emoji list](https://carpedm20.github.io/emoji/all.html?enableList=enable_list_alias)
 
 
 ## Getting Started
@@ -17,7 +18,6 @@ These instructions will guide you to copy the project from the repository and ru
 
 Things you need to have installed:
 * [emoji library](https://pypi.org/project/emoji/)
-* [emoji list](https://carpedm20.github.io/emoji/all.html?enableList=enable_list_alias)
 
 ### Local Installation
 
